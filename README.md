@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="10%" src="https://profile-counter.glitch.me/{AzerbaijanRepublic}/count.svg">
+  <img src="https://profile-counter.glitch.me/{AzerbaijanRepublic}/count.svg">
 </p>
 
 <!---
