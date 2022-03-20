@@ -2,6 +2,10 @@
   <img width="75%" src="https://user-images.githubusercontent.com/101930384/159186189-6b02912b-68fa-450d-a154-5d6c15c9de26.gif">
 </p>
 
+<p align="center">
+  <img width="10%" src="https://profile-counter.glitch.me/{AzerbaijanRepublic}/count.svg">
+</p>
+
 <!---
 - 👋 Hi, I’m @AzerbaijanRepublic
 - 👀 I’m interested in ...
